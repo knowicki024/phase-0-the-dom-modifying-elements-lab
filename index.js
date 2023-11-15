@@ -7,3 +7,10 @@ if (mainElement) {mainElement.remove();
 newHeader.id = "victory";
    
 document.body.appendChild(newHeader);
+
+
+// main.remove();
+
+// const newHeader = document.createElement("h1");
+// newHeader.id = 'victory';
+// newHeader.textContent = 'Bob is the champion';
